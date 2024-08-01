@@ -53,3 +53,12 @@ input.addEventListener("input", () => {
 ```
 
 ## Explanation
+
+* **HTML**: We have a `div` element and an `input` element. The `div` will be styled dynamically, and the `input` will capture user input.
+* **CSS**: The `div` is given a fixed height and width, a solid border, and a transition property to animate changes.
+* **JS**: We select the `div` and `input` elements using `document.querySelector`. We add an event listener to the `input`
+element that listens for `input` events. When the user types into the input field, the `border-radius` and `background` properties of the `div` are updated to match the input value.
+
+### Example Inputs:
+* Enter `red` to change the background color to red.
+* Enter `50%` to change the `div` into a circle by setting the `border-radius` to 50%.
