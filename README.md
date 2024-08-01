@@ -61,4 +61,9 @@ element that listens for `input` events. When the user types into the input fiel
 
 ### Example Inputs:
 * Enter `red` to change the background color to red.
+
+![image](https://github.com/user-attachments/assets/8c515f86-f972-4319-bf65-8789041a0bc9)
+
 * Enter `50%` to change the `div` into a circle by setting the `border-radius` to 50%.
+
+![image](https://github.com/user-attachments/assets/cff9f66e-857b-4f4f-90cb-136806548b85)
